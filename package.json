@@ -4,7 +4,9 @@
   "description": "Client module for MERN Stack Template",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "eslint . ",
+    "prod": "webpack",
+    "dev": "webpack-dev-server --inline --hot"
   },
   "repository": {
     "type": "git",
