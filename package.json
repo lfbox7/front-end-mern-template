@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lfbox7/front-end-mern-template/issues"
   },
-  "homepage": "https://github.com/lfbox7/front-end-mern-template#readme"
+  "homepage": "https://github.com/lfbox7/front-end-mern-template#readme",
+  "devDependencies": {
+    "webpack-dev-server": "^4.2.0"
+  }
 }
